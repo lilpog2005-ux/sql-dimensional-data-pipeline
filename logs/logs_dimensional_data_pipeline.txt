@@ -1,0 +1,9 @@
+
+2026-05-22 22:43:36,429 | execution_id=1 | INFO | Pipeline execution started
+2026-05-22 22:43:36,429 | execution_id=1 | INFO | Dataset loaded successfully
+2026-05-22 22:43:36,429 | execution_id=1 | INFO | Dimensional tables created
+2026-05-22 22:43:36,429 | execution_id=1 | INFO | Pipeline execution completed
+2026-05-22 22:43:43,338 | execution_id=1 | INFO | Pipeline execution started
+2026-05-22 22:43:43,338 | execution_id=1 | INFO | Dataset loaded successfully
+2026-05-22 22:43:43,338 | execution_id=1 | INFO | Dimensional tables created
+2026-05-22 22:43:43,338 | execution_id=1 | INFO | Pipeline execution completed
